@@ -1,0 +1,8 @@
+MoodMusicPlaylist/
+├── data/
+│   └── songs.csv        # Song dataset with moods
+├── main.py              # Main program
+├── mood_detection.py    # Detects mood using webcam
+├── recommend.py         # Recommends songs based on mood
+├── requirements.txt
+└── README.md
